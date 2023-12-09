@@ -1,7 +1,7 @@
 
 // import Projects from "./GalleryTest"
 
-export default function Gallery(){
+ function Gallery(){
     
     return (
         <div className="w-screen h-screen flex flex-col items-center overflow-x-hidden">
@@ -186,3 +186,5 @@ export default function Gallery(){
     )
 
 }
+
+export default Gallery;
